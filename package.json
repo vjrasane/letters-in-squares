@@ -1,6 +1,6 @@
 {
   "name": "letters-in-squares",
-  "version": "0.0.3-alpha-v1",
+  "version": "0.0.3-alpha-v2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "<ville.rasanen@appgyver.com>",
@@ -13,6 +13,7 @@
   "devDependencies": {
     "@types/jest": "^27.5.1",
     "@types/node": "^17.0.34",
+    "@types/sharp": "^0.30.2",
     "jest": "^28.1.0",
     "ts-jest": "^28.0.2",
     "tsc": "^2.0.4",
@@ -20,8 +21,10 @@
   },
   "dependencies": {
     "canvas": "^2.9.1",
+    "decoders": "^2.0.0",
     "letters-in-squares": "0.0.2-beta",
     "pureimage": "^0.3.8",
+    "sharp": "^0.30.4",
     "yargs": "^17.5.1"
   }
 }
