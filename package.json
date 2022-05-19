@@ -1,6 +1,6 @@
 {
   "name": "letters-in-squares",
-  "version": "0.0.2-alpha",
+  "version": "0.0.2-beta",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "<ville.rasanen@appgyver.com>",
@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "canvas": "^2.9.1",
+    "letters-in-squares": "^0.0.1-alpha",
     "pureimage": "^0.3.8",
     "yargs": "^17.5.1"
   }
