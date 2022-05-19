@@ -1,6 +1,6 @@
 {
   "name": "letters-in-squares",
-  "version": "0.0.2-prerelease",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "<ville.rasanen@appgyver.com>",
